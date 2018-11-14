@@ -7,4 +7,6 @@ package com.itheima.controller;
 
 public class BaseController {
 
+    private String str = "测试冲突";
+
 }
