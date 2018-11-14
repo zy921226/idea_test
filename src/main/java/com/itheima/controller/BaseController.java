@@ -9,4 +9,8 @@ public class BaseController {
 
     private String str = "测试冲突";
 
+    public static void main(String[] args) {
+
+    }
+
 }
