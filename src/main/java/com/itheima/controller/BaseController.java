@@ -13,6 +13,7 @@ public class BaseController {
 
 
         System.out.println("分支133333");
+        System.out.println("分支122222");
     }
 
 }
